@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kirubaraj Manimathavan!👋
 
 <!--
 **kirubarajm/kirubarajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I am a full-stack software engineer, an entrepreneur and a Software Engineering graduate student [@Carnegie Mellon University](https://www.cmu.edu).
+
+🔭 I’m currently building AI Agents for Financial Advisory [@Troutwood](https://www.troutwood.com).
+
+👯 I’m seeking full time jobs as a Software Engineer.
+
+
+## A little more about me...
+```
+const kirubarajm = {
+  pronouns: "he" | "his",
+  code: ["Python", "Java", "JavaScript", "TypeScript", "Go", "C", "SQL", "GraphQL", "HTML", "CSS"],
+  specialty: ["AI Development", "Back-End Development", "Full-stack Development", "Deep Learning", "Android Development", "Web Development"],
+  industries: ["Finance", "Enterprise Software", "Deep Tech", "Food Tech", "Education"],
+  interests: ["Trading", "Startups", "Badminton"],
+  AI: ["RAG", "AI_Agent", "LangChain", "Pytorch", "XGBoost", "Vertex AI"],
+  tools: ["React", "Node", "Docker", "Kubernetes", "Oracle ADF", "Oracle JET"],
+  databases: ["MySQL", "MongoDB", "HBase", "Firebase"],
+  data_processing: ["Elasticsearch", "Hadoop", "Apache Spark", "Apache Kafka", "Apache Samza"],
+  cloud_infra: ["AWS", "Azure", "GCP", "Oracle Cloud", "Terraform", "Serverless"]
+};
+```
+
+## Lets Catch Up...
+kmanimat@andrew.cmu.edu
+

@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 
 ## A little more about me...
-```
+```javascript
 const kirubarajm = {
   pronouns: "he" | "his",
   code: ["Python", "Java", "JavaScript", "TypeScript", "Go", "C", "SQL", "GraphQL", "HTML", "CSS"],
-  specialty: ["AI Development", "Back-End Development", "Full-stack Development", "Deep Learning", "Android Development", "Web Development"],
+  specialty: ["AI Development", "Back-End Development", "Full-stack Development", "Deep Learning", "Android Development"],
   industries: ["Finance", "Enterprise Software", "Deep Tech", "Food Tech", "Education"],
   interests: ["Trading", "Startups", "Badminton"],
   AI: ["RAG", "AI_Agent", "LangChain", "Pytorch", "XGBoost", "Vertex AI"],

@@ -19,23 +19,23 @@ Here are some ideas to get you started:
 
 🔭 I’m currently building AI Agents for Financial Advisory [@Troutwood](https://www.troutwood.com).
 
-👯 I’m seeking full time jobs as a Software Engineer.
+🌱 I’m seeking full time jobs as a Software Engineer.
 
 
 ## A little more about me...
 ```javascript
 const kirubarajm = {
   pronouns: "he" | "his",
-  code: ["Python", "Java", "JavaScript", "TypeScript", "Go", "C", "SQL", "GraphQL", "HTML", "CSS"],
+  code: [Python, Java, JavaScript, TypeScript, Go, C, SQL, GraphQL, HTML, CSS],
   specialty: ["AI Development", "Back-End Development", "Full-stack Development", "Deep Learning", "Android Development"],
   industries: ["Finance", "Enterprise Software", "Deep Tech", "Food Tech", "Education"],
   interests: ["Trading", "Startups", "Badminton"],
-  AI: ["RAG", "AI_Agent", "LangChain", "Pytorch", "XGBoost", "Vertex AI"],
-  tools: ["React", "Node", "Docker", "Kubernetes", "Oracle ADF", "Oracle JET"],
-  databases: ["MySQL", "MongoDB", "HBase", "Firebase"],
-  data_processing: ["Elasticsearch", "Hadoop", "Apache Spark", "Apache Kafka", "Apache Samza"],
-  cloud_infra: ["AWS", "Azure", "GCP", "Oracle Cloud", "Terraform", "Serverless"]
-};
+  AI: [RAG, AI_Agents, LangChain, Pytorch, XGBoost, Vertex_AI],
+  tools: [React, Node, Docker, Kubernetes, Oracle_ADF, Oracle_JET],
+  databases: [MySQL, MongoDB, HBase, Firebase],
+  data_processing: [Elasticsearch, Hadoop, Apache.Spark, Apache.Kafka, Apache.Samza],
+  cloud_infra: [AWS, Azure, GCP, Oracle_Cloud, Terraform, Serverless]
+}
 ```
 
 ## Lets Catch Up...

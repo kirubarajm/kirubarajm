@@ -39,5 +39,5 @@ const kirubarajm = {
 ```
 
 ## Lets Catch Up...
-kmanimat@andrew.cmu.edu
+kmanimat@cs.cmu.edu
 

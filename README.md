@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am a full-stack software engineer, an entrepreneur and a Software Engineering graduate student [@Carnegie Mellon University](https://www.cmu.edu).
+🌱 I am an experienced AI and Full-Stack Software Engineer, an entrepreneur and a Software Engineering graduate student [@Carnegie Mellon University](https://www.cmu.edu).
 
 🔭 I’m currently building AI Agents for Financial Advisory [@Troutwood](https://www.troutwood.com).
 

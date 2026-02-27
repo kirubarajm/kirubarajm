@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am an experienced AI and Full-Stack Software Engineer, an entrepreneur and a Software Engineering graduate student [@Carnegie Mellon University](https://www.cmu.edu).
+🌱 I am an experienced AI and Full-Stack Software Engineer, an entrepreneur and a CS graduate from [@Carnegie Mellon University](https://www.cmu.edu).
 
-🔭 I’m currently building AI Agents for Financial Advisory [@Troutwood](https://www.troutwood.com).
-
-🌱 I’m seeking full time jobs as a Software Engineer.
-
+🔭 I’m currently building [Amazon's](https://www.aboutamazon.com/) Agentic AI Platform.
 
 ## A little more about me...
 ```javascript
@@ -39,5 +36,5 @@ const kirubarajm = {
 ```
 
 ## Lets Catch Up...
-kmanimat@cs.cmu.edu
+kirubarajmathavan@gmail.com
 

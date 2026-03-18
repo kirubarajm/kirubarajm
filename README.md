@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 const kirubarajm = {
   pronouns: "he" | "his",
   code: [Python, Java, JavaScript, TypeScript, Go, C, SQL, GraphQL, HTML, CSS],
-  specialty: ["AI Development", "Back-End Development", "Full-stack Development", "Deep Learning", "Android Development"],
-  industries: ["Finance", "Enterprise Software", "Deep Tech", "Food Tech", "Education"],
+  specialty: ["AI Development", "Back-End", "AI Platform", "Infrastructure", "Full-stack", "Deep Learning"],
+  industries: ["Agentic AI Platform", "Finance", "Enterprise Software", "Deep Tech", "Food Tech", "Education"],
   interests: ["Trading", "Startups", "Badminton"],
-  AI: [RAG, AI_Agents, LangChain, Pytorch, XGBoost, Vertex_AI],
+  AI: [Agent_Runtime, Agent_Memory, LangChain, RAG, Pytorch, XGBoost, Vertex_AI],
   tools: [React, Node, Docker, Kubernetes, Oracle_ADF, Oracle_JET],
-  databases: [MySQL, MongoDB, HBase, Firebase],
+  databases: [DynamoDB, Redshift, MySQL, MongoDB, HBase, Firebase],
   data_processing: [Elasticsearch, Hadoop, Apache.Spark, Apache.Kafka, Apache.Samza],
-  cloud_infra: [AWS, Azure, GCP, Oracle_Cloud, Terraform, Serverless]
+  cloud_infra: [AWS, Azure, GCP, Oracle_Cloud, Cloudformation, Terraform, Serverless]
 }
 ```
 

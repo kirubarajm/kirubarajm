@@ -1,4 +1,4 @@
-## Hi, I'm Kirubaraj Manimathavan!👋
+## Hi, I'm Kirubaraj Manimathavan! 👋
 
 <!--
 **kirubarajm/kirubarajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am an experienced AI and Full-Stack Software Engineer, an entrepreneur and a CS graduate from [Carnegie Mellon University](https://www.cmu.edu).
+🌱 I am an **AI Software Engineer** and **Entrepreneur**, specializing in Agentic AI Platform & Infrastructure. CS graduate from [Carnegie Mellon University](https://www.cmu.edu).
 
-🔭 I’m currently building [Amazon's](https://www.aboutamazon.com/) Agentic AI Platform.
+🔭 I'm currently building [Amazon's](https://www.aboutamazon.com/) Agentic AI Platform — powering 1M+ agents/day.
 
 ## A little more about me...
 ```javascript
 const kirubarajm = {
   pronouns: "he" | "his",
-  code: [Python, Java, JavaScript, TypeScript, Go, C, SQL, GraphQL, HTML, CSS],
-  specialty: ["AI Development", "Back-End", "AI Platform", "Infrastructure", "Full-stack", "Deep Learning"],
-  industries: ["Agentic AI Platform", "Finance", "Enterprise Software", "Deep Tech", "Food Tech", "Education"],
+  code: [Python, Java, TypeScript, JavaScript, Go, GraphQL],
+  specialty: ["Agentic AI Platform", "AI Infrastructure", "Backend", "Full-Stack", "Deep Learning"],
+  industries: ["Agentic AI", "Finance", "Enterprise Software", "Deep Tech", "Food Tech"],
   interests: ["Trading", "Startups", "Badminton"],
-  AI: [Agent_Runtime, Agent_Memory, LangChain, RAG, Pytorch, XGBoost, Vertex_AI],
-  tools: [React, Node, Docker, Kubernetes, Oracle_ADF, Oracle_JET],
-  databases: [DynamoDB, Redshift, MySQL, MongoDB, HBase, Firebase],
-  data_processing: [Elasticsearch, Hadoop, Apache.Spark, Apache.Kafka, Apache.Samza],
-  cloud_infra: [AWS, Azure, GCP, Oracle_Cloud, Cloudformation, Terraform, Serverless]
+  agentic_ai: [Agent_Orchestration, MCP, Tool_Use, Bedrock_AgentCore, Agent_Memory, LangChain, Prompt_Engineering, AI_Evaluation, AI_Safety],
+  ai_foundations: [RAG, Embeddings, Transformers, Fine_Tuning, PyTorch, Vector_DB],
+  backend: [NodeJS, gRPC, REST, WebSockets, SSE],
+  databases: [DynamoDB, MongoDB, Redis, Vector_DB, Elasticsearch, Kafka, MySQL],
+  cloud_infra: [AWS, CloudFormation, Kubernetes, Docker, GCP, Azure, Terraform, CI_CD],
+  frontend: [React, NextJS],
 }
 ```
 
-## Lets Catch Up...
+## Let's Catch Up...
 kirubarajmathavan@gmail.com
-
